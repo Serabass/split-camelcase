@@ -1,0 +1,24 @@
+{
+  "name": "split-camelcase",
+  "version": "1.0.0",
+  "description": "A small module for splitting camelCased strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Serabass/split-camelcase"
+  },
+  "keywords": [
+    "split",
+    "camelcase",
+    "strings"
+  ],
+  "author": "Serabass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Serabass/split-camelcase/issues"
+  },
+  "homepage": "https://github.com/Serabass/split-camelcase"
+}
